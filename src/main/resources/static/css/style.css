@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+.container {
+    margin-top: 10%;
+    padding: 40px;
+    border: 2px solid black;
+}
+
+.ilb {
+    display: inline-block;
+}
+
+.pad0 {
+    padding: 0;
+}
+
+.ul {
+    text-decoration: underline;
+}
+
+.info {
+    align-content: center;
+}
+
+.mgbt-20 {
+    margin-bottom: 5%;
+}
+
+tr {
+    font-size: 20px;
+}
+
+td {
+    font-size: 18px;
+}
